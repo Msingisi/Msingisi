@@ -1,8 +1,19 @@
-- 👋 Hi, my name is Msingisi, Rhodes University graduate. I graduated with a Bachelor of Science in Mathematical Statistics 
-- 👀 I’m currently working on a data scientist salary project, using selenium to scrape for jobs on Glassdoor.com
-- 🌱 I’m currently learning machine learning, Python, R, etc
-- 💞️ I’m looking to collaborate on R projects
-- 📫 How to reach me linkedin.com/posts/msingisi-ratshana-762815148
+# Welcome to Msingisi's GitHub!
+
+👋 Hi there! I'm **Msingisi**, a proud alumnus of **Rhodes University** with a Bachelor of Science in **Mathematical Statistics**.
+
+👀 I'm diving deep into the world of data, currently spearheading a **Data Scientist Salary Project**. My tools? **Selenium** and a knack for uncovering insights on Glassdoor.com.
+
+🌱 On my learning journey, I'm embracing the complexities of **machine learning**, sharpening my skills in **Python**, and unraveling the mysteries of **R**.
+
+💞️ Collaboration is key, and I'm on the lookout to team up on innovative **R projects**. Got an idea? Let's make it happen!
+
+📫 Ready to connect? Find me on LinkedIn and let's talk data, statistics, and the future of tech!
+
+---
+
+Let's collaborate and innovate in the world of data!
+
 
 <!---
 Msingisi/Msingisi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
